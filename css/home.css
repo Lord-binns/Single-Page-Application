@@ -2,8 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
 
     background-image: url(' https://i.pinimg.com/564x/b0/bc/b2/b0bcb23171e24c59f9ff067d24e6d776.jpg'); 
-    background-size: fills;
-
+    background-size: fill;
     color: #fff; 
   }
 
@@ -11,15 +10,26 @@ body {
     background-color: rgb(255, 255, 255);
     color: rgb(17, 17, 17);
     text-align: center;
+    
   }
 
   p {
-    background-color: black;
-    background: transparent;
+    background-color: rgba(255, 255, 255, 0.5);   
+    padding: 10px;
+   color: black;
     font-size: 30px;
-    line-height: 1.6;
-    text-align: center;
+    text-align: left;
     max-width: 600px;
-    margin: 20px auto;
-padding-top: 10px;
+    padding-left: 30px;
+   
+
   }
+ 
+
+img {
+ 
+  width: 300px; 
+  height: auto;  
+  margin-top: 2px;  
+  margin-left: 70%;   
+}
