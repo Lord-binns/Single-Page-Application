@@ -26,19 +26,42 @@ body {
    position: fixed;
    margin-top: 40px;
     margin-left: 140px;
-   
-
   }
  
 
-img {
+  .unique-image  {
  
   width: 210px; 
   height: auto;  
-  margin-top: 10px;  
+  margin-top: 2px;  
   margin-left: 70%;   
   position: fixed;
  
 }
 
+.card-container{
+  position: fixed;
+  margin-top: 300px;
+  margin-left: 15%;
+}
+
+.about-card{
+  width: 270px;
+}
+.img-1  {
+ 
+  width: 300px; 
+  height: auto;  
+ 
+ 
+}
+
+
+h3{
+  color: black;
+}
+
+h5{
+  color: black;
+}
 

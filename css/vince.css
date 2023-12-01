@@ -23,4 +23,31 @@ body {
     margin: 20px auto;
 padding-top: 10px;
   }
+  .card-container{
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 12%;
+    padding: 10px;
+  }
+  
+  .about-card{
+    width: 300px;
+  }
+  .img-1  {
+   
+    width: 300px; 
+    height: auto;  
+   
+   
+  }
+  
+  
+  h3{
+    color: black;
+  }
+  
+  h5{
+    color: black;
+  }
+  
   
