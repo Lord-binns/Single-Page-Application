@@ -1,4 +1,25 @@
 .app-nav-btn-active {
-    background-color: #000000;
+    background-color: rgb(231, 226, 226);
     color: rgb(188, 26, 26);
+}
+
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+.w3-bar-item {
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    size: 100px;
+    
+}
+.w3-bar {
+    background-color: #333; /* Set the background color for the navigation bar */
+    height: 60px; /* Set a fixed height for the navigation bar */
+    display: flex;
+    justify-content: space-around; /* Center the items horizontally */
+    align-items: center; /* Center the items vertically */
 }
