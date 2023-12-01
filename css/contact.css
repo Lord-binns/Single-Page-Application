@@ -29,6 +29,7 @@ body {
     margin: 20px auto;
 padding-top: 10px;
   }
+
   .card-container{
     position: fixed;
     margin-top: 120px;
@@ -47,7 +48,6 @@ padding-top: 10px;
    
    
   }
-  
   
   h3{
     color: black;
